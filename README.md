@@ -98,8 +98,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- [Microsoft Florence](https://github.com/microsoft/Florence)
-- [Lama Cleaner](https://github.com/Sanster/lama-cleaner)
+- [Microsoft Florence](https://huggingface.co/microsoft/Florence-2-large)
+- [Lama Cleaner](https://github.com/Sanster/IOPaint)
 
 ## Contact
 
