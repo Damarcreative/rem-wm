@@ -1,6 +1,6 @@
 # Rem-WM: Watermark Remover using Florence and Lama Cleaner
 
-Welcome to **Rem-WM**, a powerful watermark remover tool that leverages the capabilities of Microsoft Florence and Lama Cleaner models. This tool provides an easy-to-use interface for removing watermarks from images, with support for both individual images and batch processing.
+**Rem-WM**, a powerful watermark remover tool that leverages the capabilities of Microsoft Florence and Lama Cleaner models. This tool provides an easy-to-use interface for removing watermarks from images, with support for both individual images and batch processing.
 
 ### Test
 https://huggingface.co/spaces/DamarJati/Remove-watermark
