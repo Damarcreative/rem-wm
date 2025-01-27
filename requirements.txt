@@ -5,7 +5,7 @@ pydantic==1.10.2
 loguru==0.6.0
 tqdm==4.64.1
 Pillow==9.2.0
-diffusers==0.4.2
+diffusers==0.32.2
 transformers
 scikit-image==0.19.3
 gradio
